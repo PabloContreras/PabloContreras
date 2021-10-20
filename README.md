@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working at AMAPARTS Precision Machining
-🌱 I’m currently learning ReactJS
-📫 How to reach me: pablo_contreras_1997@outlook.com
-⚡ Fun fact: All day I have hungry & sleepy
+- 🔭 I’m currently working at AMAPARTS Precision Machining
+- 🌱 I’m currently learning ReactJS
+- 📫 How to reach me: pablo_contreras_1997@outlook.com
+- ⚡ Fun fact: All day I have hungry & sleepy
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PabloContreras)](https://github.com/anuraghazra/github-readme-stats)
